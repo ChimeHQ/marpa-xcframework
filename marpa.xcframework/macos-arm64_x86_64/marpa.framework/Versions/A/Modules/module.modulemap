@@ -1,0 +1,6 @@
+framework module marpa {
+	umbrella header "shim.h"
+	
+	export *
+	module * { export * }
+}
